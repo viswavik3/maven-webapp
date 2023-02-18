@@ -6,6 +6,7 @@ Java Application
 <center>
 <h1>Sample Java Web Application</h1>
 <h2>Changes made in code</h2>
+<h2>3rd line of contents, welcome to my webapp</h2>
 </center>
 </body>
 </html>
